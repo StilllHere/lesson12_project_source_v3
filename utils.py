@@ -31,3 +31,4 @@ def add_post(post):
     with open('posts.json','w', encoding='utf-8') as f:
         json.dump(posts, f)
     return posts
+
