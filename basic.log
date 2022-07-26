@@ -456,3 +456,80 @@ INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 18:46:03] "[33mGET /uploads/Безым
 INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 18:46:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
 INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 18:46:10] "GET / HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 18:46:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:35:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:35:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняем поиск
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:35:32] "GET /search/?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:35:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:35:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:35:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:35:35] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:35:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:35:46] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:35:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:35:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:35:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняем поиск
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:35:50] "GET /search/?s=welcome HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:35:51] "[33mGET /search/uploads/photomode_22122021_210826.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:35:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:37:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:37:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:37:50] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:37:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:37:55] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:37:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:37:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:37:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняем поиск
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:38:01] "GET /search/?s=arc HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:38:01] "[33mGET /search/uploads/photomode_22122021_210816.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:38:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:40:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:40:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняем поиск
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:40:57] "GET /search/?s=красивый HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:40:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:40:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:40:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:40:59] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:41:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:41:05] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:41:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:41:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:41:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняем поиск
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:41:09] "GET /search/?s=dd HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:41:09] "[33mGET /search/uploads/photomode_22122021_210830.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:41:09] "[33mGET /search/uploads/photomode_22122021_210826.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:41:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:45:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:45:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:45:23] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:45:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:45:29] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:45:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:45:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:45:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняем поиск
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:45:33] "GET /search/?s=ww HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:45:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:45:33] "[33mGET /search/uploads/photomode_22122021_210816.png HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:45:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:45:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:45:52] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:45:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:45:58] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:45:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:46:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:46:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняем поиск
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:46:02] "GET /search/?s=aw HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:46:02] "[33mGET /search/uploads/photomode_22122021_210816.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2022 21:46:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
