@@ -23,7 +23,7 @@ def post_adding():
         logging.info('Файл не картинка')
         return 'Расширение не то'
     try:
-        path_pic: str = '../.' + save_picture(picture)
+        path_pic: str = save_picture(picture)
         new_post= add_post({'pic': path_pic,'content': content})
         return render_template('post_uploaded.html', post=new_post)
     except FileNotFoundError:
