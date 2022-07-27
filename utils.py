@@ -21,7 +21,7 @@ def get_posts_by_word(word):
 
 def save_picture(picture):
     filename = picture.filename
-    path = f'./uploads/{filename}'
+    path = f'./uploads/images/{filename}'
     picture.save(path)
     return path
 
