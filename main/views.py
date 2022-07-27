@@ -10,7 +10,7 @@ main_blueprint = Blueprint('main_blueprint', __name__, template_folder='template
 def root_page():
     return render_template('index.html')
 
-@main_blueprint.route('/search/')
+@main_blueprint.route('/search')
 def search_page():
     s = request.args.get('s')
     logging.info('Выполняем поиск')
